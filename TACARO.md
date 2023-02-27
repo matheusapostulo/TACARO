@@ -1,4 +1,4 @@
-INTRODUÇÃO
+# INTRODUÇÃO
 
 Analisando a sociedade atual, é indubitável que as classes econômicas C e D continuam em uma busca incansável dos melhores preços dos produtos nos supermercados. Atualmente, a dor de um software auxiliar cresce e a busca continua, dor que foi deixada de lado após a extinção dos panfletos promocionais enviados por grandes supermercados para as residências de seus clientes geograficamente posicionados ao redor do estabelecimento. Dessa forma, TACARO vem com a iniciativa de aproximar o usuário, de forma interativa, os preços da sua região na palma da sua mão, visando economicamente a comparação de preços e promovendo ofertas, ajudando o cliente a fazer a melhor escolha de compra.
 
@@ -10,7 +10,7 @@ De acordo com o CNN Brasil, em uma pesquisa realizada em 2022, cresceu gradativa
 
 2.	RAZÃO/JUSTIFICATIVA PARA ESTA DEMANDA
 Em uma pesquisa realizada por parte do Estudo Varejo Alimentar, da CVA Solutions, clientes de supermercados estão em uma busca incansável por preços reduzidos e promoções.
-Dessa forma, é possível visualizar uma dor em procura por produtos mais baratos, em que o software auxiliaria a procura mais rápida e certeira em qual estabelecimento ele deve realizar a compra para economizar.
+Dessa forma, é possível visualizar uma dor em procura por produtos mais baratos, em que o software auxiliaria a procura mais rápida e certeira em qual estabelecimento ele deve realizar a compra para economizar.   
 https://www.cnnbrasil.com.br/business/cresce-procura-por-marcas-mais-baratas-nos-supermercados-aponta-abras/       
 https://portal.clientesa.com.br/cliente-sa/consumidores-buscam-precos-e-promocoes-para-lidar-com-inflacao-alta/    
 

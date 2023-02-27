@@ -11,8 +11,8 @@ De acordo com o CNN Brasil, em uma pesquisa realizada em 2022, cresceu gradativa
 2.	RAZÃO/JUSTIFICATIVA PARA ESTA DEMANDA
 Em uma pesquisa realizada por parte do Estudo Varejo Alimentar, da CVA Solutions, clientes de supermercados estão em uma busca incansável por preços reduzidos e promoções.
 Dessa forma, é possível visualizar uma dor em procura por produtos mais baratos, em que o software auxiliaria a procura mais rápida e certeira em qual estabelecimento ele deve realizar a compra para economizar.
-https://www.cnnbrasil.com.br/business/cresce-procura-por-marcas-mais-baratas-nos-supermercados-aponta-abras/
-https://portal.clientesa.com.br/cliente-sa/consumidores-buscam-precos-e-promocoes-para-lidar-com-inflacao-alta/
+https://www.cnnbrasil.com.br/business/cresce-procura-por-marcas-mais-baratas-nos-supermercados-aponta-abras/       
+https://portal.clientesa.com.br/cliente-sa/consumidores-buscam-precos-e-promocoes-para-lidar-com-inflacao-alta/    
 
 3.	DESCRIÇÃO DO SOFTWARE
 TACARO é uma aplicação mobile que tem como objetivo principal escanear códigos de barra e realizar a análise de preços de supermercados da região de acordo com o produto pesquisado, promovendo a ideia de realizar compras econômicas.
@@ -20,14 +20,14 @@ TACARO é uma aplicação mobile que tem como objetivo principal escanear códig
 4.	IDENTIFICAÇÕES DE CLIENTES
 Os clientes público-alvo da aplicação são pertencentes da classe C e D, entre 18-60 anos de idade, com predominância de compras em alimentos e produtos de limpeza nos grandes supermercados e que buscam realizar compras com preços reduzidos e promoções.
 
-5.	ETAPAS NECESSÁRIAS PARA CONSTRUÇÃO DO PROJETO
-I.	Estudo aprofundado da API e da leitura de código de barras;
-II.	Estudo inteligente de abordagem ao usuário com telas e usabilidade;
-III.	Levantamento de requisitos; 
-IV.	Criação de protótipos;
-V.	Início de produções.
+5.	ETAPAS NECESSÁRIAS PARA CONSTRUÇÃO DO PROJETO   
+I.	Estudo aprofundado da API e da leitura de código de barras;    
+II.	Estudo inteligente de abordagem ao usuário com telas e usabilidade;    
+III.	Levantamento de requisitos;    
+IV.	Criação de protótipos;      
+V.	Início de produções.   
 
-6.	PRINCIPAIS CRITÉRIOS DE QUALIDADE
-I.	Boa usabilidade/fácil manuseio;
-II.	Navegação rápida;
-III.	Informações coerentes de acordo com a localização do usuário.
+6.	PRINCIPAIS CRITÉRIOS DE QUALIDADE   
+I.	Boa usabilidade/fácil manuseio;   
+II.	Navegação rápida;   
+III.	Informações coerentes de acordo com a localização do usuário.   

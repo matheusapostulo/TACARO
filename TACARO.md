@@ -31,3 +31,17 @@ V.	Início de produções.
 I.	Boa usabilidade/fácil manuseio;   
 II.	Navegação rápida;   
 III.	Informações coerentes de acordo com a localização do usuário.   
+
+
+# Levantamento de Requisitos
+### NOME DO REQUISITO
+|   [RNF001]   | NOME DO REQUISITO |
+| --- | --- |
+| NÚMERO DO REQUISITO | 1 |
+| DESCRIÇÃO | Descreva aqui. |
+| CLASSIFICAÇÃO | Requisito não Funcional. |
+| DEPENDÊNCIAS | Descreva qual é a dependência.[RF000] |
+| ESFORÇO (PARA DESENVOLVER) | Alto. |
+| RELEVÂNCIA (PARA NEGÓCIO) | Alta. |
+| RISCO (PARA O PROJETO) | Médio. |
+***

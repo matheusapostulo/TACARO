@@ -34,14 +34,14 @@ III.	Informações coerentes de acordo com a localização do usuário.
 
 
 # Levantamento de Requisitos
-### NOME DO REQUISITO
-|   [RNF001]   | NOME DO REQUISITO |
+### LEITURA DO CÓDIGO DE BARRAS
+|   [RF001]   | LEITURA DO CÓDIGO DE BARRAS |
 | --- | --- |
 | NÚMERO DO REQUISITO | 1 |
-| DESCRIÇÃO | Descreva aqui. |
-| CLASSIFICAÇÃO | Requisito não Funcional. |
-| DEPENDÊNCIAS | Descreva qual é a dependência.[RF000] |
+| DESCRIÇÃO | O sistema deve realizar a leitura do código de barras |
+| CLASSIFICAÇÃO | Requisito Funcional. |
+| DEPENDÊNCIAS | NENHUMA |
 | ESFORÇO (PARA DESENVOLVER) | Alto. |
 | RELEVÂNCIA (PARA NEGÓCIO) | Alta. |
-| RISCO (PARA O PROJETO) | Médio. |
+| RISCO (PARA O PROJETO) | Alto. |
 ***

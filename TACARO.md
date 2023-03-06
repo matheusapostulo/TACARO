@@ -44,4 +44,41 @@ III.	Informações coerentes de acordo com a localização do usuário.
 | ESFORÇO (PARA DESENVOLVER) | Alto. |
 | RELEVÂNCIA (PARA NEGÓCIO) | Alta. |
 | RISCO (PARA O PROJETO) | Alto. |
-***
+***  
+  
+### IDENTIFICAÇÃO GEOGRÁFICA DO USUÁRIO
+|   [RF002]   | IDENTIFICAÇÃO GEOGRÁFICA DO USUÁRIO |
+| --- | --- |
+| NÚMERO DO REQUISITO | 2 |
+| DESCRIÇÃO | O sistema deve identificar a localização geográfica do usuário |
+| CLASSIFICAÇÃO | Requisito Funcional. |
+| DEPENDÊNCIAS | Aceitação de termos; GPS ligado |
+| ESFORÇO (PARA DESENVOLVER) | Alto. |
+| RELEVÂNCIA (PARA NEGÓCIO) | Alta. |
+| RISCO (PARA O PROJETO) | Alto. |
+*** 
+  
+  
+### IDENTIFICAÇÃO DO PRODUTO
+|   [RF003]   | IDENTIFICAÇÃO DO PRODUTO |
+| --- | --- |
+| NÚMERO DO REQUISITO | 3 |
+| DESCRIÇÃO | O sistema deve ser capaz de identificar o produto com base no código de barras escaneado|
+| CLASSIFICAÇÃO | Requisito Funcional. |
+| DEPENDÊNCIAS | [RF001] |
+| ESFORÇO (PARA DESENVOLVER) | Alto. |
+| RELEVÂNCIA (PARA NEGÓCIO) | Alta. |
+| RISCO (PARA O PROJETO) | Alto. |
+***  
+  
+### ATUALIZAÇÃO DE PREÇO
+|   [RF004]   | ATUALIZAÇÃO DE PREÇO |
+| --- | --- |
+| NÚMERO DO REQUISITO | 4 |
+| DESCRIÇÃO | O sistema deve atualizar o preço de um produto|
+| CLASSIFICAÇÃO | Requisito Funcional. |
+| DEPENDÊNCIAS | [RF003] |
+| ESFORÇO (PARA DESENVOLVER) | Alto. |
+| RELEVÂNCIA (PARA NEGÓCIO) | Alta. |
+| RISCO (PARA O PROJETO) | Médio. |
+*** 

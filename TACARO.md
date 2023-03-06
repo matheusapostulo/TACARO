@@ -40,7 +40,7 @@ III.	Informações coerentes de acordo com a localização do usuário.
 | NÚMERO DO REQUISITO | 1 |
 | DESCRIÇÃO | O sistema deve realizar a leitura do código de barras |
 | CLASSIFICAÇÃO | Requisito Funcional. |
-| DEPENDÊNCIAS | NENHUMA |
+| DEPENDÊNCIAS | [RF005] * perguntar para o prof se pode ter depedencia de um requisito descristo posteriormente | 
 | ESFORÇO (PARA DESENVOLVER) | Alto. |
 | RELEVÂNCIA (PARA NEGÓCIO) | Alta. |
 | RISCO (PARA O PROJETO) | Alto. |
@@ -81,4 +81,40 @@ III.	Informações coerentes de acordo com a localização do usuário.
 | ESFORÇO (PARA DESENVOLVER) | Alto. |
 | RELEVÂNCIA (PARA NEGÓCIO) | Alta. |
 | RISCO (PARA O PROJETO) | Médio. |
+***  
+  
+### ESCANEAMENTO PELO CLIENTE
+|   [RF005]   | ESCANEAMENTO PELO CLIENTE |
+| --- | --- |
+| NÚMERO DO REQUISITO | 5 |
+| DESCRIÇÃO | O sistema deverá ter uma tela exibida simples onde o usuário irá clicar em "ESCANEAR" e logo abrirá para a leitura do código de barras [RF001] |
+| CLASSIFICAÇÃO | Requisito Funcional. |
+| DEPENDÊNCIAS | NENHUMA |
+| ESFORÇO (PARA DESENVOLVER) | Alto. |
+| RELEVÂNCIA (PARA NEGÓCIO) | Alta. |
+| RISCO (PARA O PROJETO) | Alto. |
+*** 
+  
+### VISUALIZAÇÃO DE PREÇO
+|   [RF006]   | VISUALIZAÇÃO DE PREÇO |
+| --- | --- |
+| NÚMERO DO REQUISITO | 6 |
+| DESCRIÇÃO | O usuário poderá ver os preços (de outros mercados) do produto escaneado |
+| CLASSIFICAÇÃO | Requisito Funcional. |
+| DEPENDÊNCIAS | TODAS (RESULTADO FINAL) |
+| ESFORÇO (PARA DESENVOLVER) | Alto. |
+| RELEVÂNCIA (PARA NEGÓCIO) | Alta. |
+| RISCO (PARA O PROJETO) | Alto. |
+*** 
+  
+### IDENTIFICAÇÃO DO PREÇO
+|   [RF007]   | IDENTIFICAÇÃO DO PREÇO |
+| --- | --- |
+| NÚMERO DO REQUISITO | 7 |
+| DESCRIÇÃO | Após o escaneamento do produto, o usuário deverá identificar o preço para que o sistema faça a atualizaçã e a comparação do preço |
+| CLASSIFICAÇÃO | Requisito Funcional. |
+| DEPENDÊNCIAS | [RF001]; [RF002]; [RF003] e [RF005] |
+| ESFORÇO (PARA DESENVOLVER) | Alto. |
+| RELEVÂNCIA (PARA NEGÓCIO) | Alta. |
+| RISCO (PARA O PROJETO) | Alto. |
 *** 

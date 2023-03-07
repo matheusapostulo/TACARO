@@ -89,7 +89,7 @@ III.	Informações coerentes de acordo com a localização do usuário.
 | NÚMERO DO REQUISITO | 5 |
 | DESCRIÇÃO | O sistema deverá ter uma tela exibida simples onde o usuário irá clicar em "ESCANEAR" e logo abrirá para a leitura do código de barras [RF001] |
 | CLASSIFICAÇÃO | Requisito Funcional. |
-| DEPENDÊNCIAS | NENHUMA |
+| DEPENDÊNCIAS | NENHUMA * cadastro seria uma dependência |
 | ESFORÇO (PARA DESENVOLVER) | Alto. |
 | RELEVÂNCIA (PARA NEGÓCIO) | Alta. |
 | RISCO (PARA O PROJETO) | Alto. |
